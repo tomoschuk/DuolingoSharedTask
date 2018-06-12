@@ -1,8 +1,8 @@
 # DuolingoSharedTask
-Brendan Tomoschuk's and Jarrett Lovelett's entry to the [Duolingo Shared Task](http://sharedtask.duolingo.com/) on Second Language Acquisition Modeling. See conference paper in /Documents. Given basic user data and limited feature set, predict probability of translations errors at the token level. 
+Brendan Tomoschuk's and Jarrett Lovelett's entry to the [Duolingo Shared Task](http://sharedtask.duolingo.com/) on Second Language Acquisition Modeling. See conference paper in Documents/. Given basic user data and limited feature set, predict probability of translations errors at the token level. 
 
 # Setup & Use 
-* Clone this repository and then download the provided datasets from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO). Save data to /Data, preserving the following directory structure (keep existing filenames):  
+* Clone this repository and then download the provided datasets from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO). Save data to Data/, preserving the following directory structure (keep existing filenames):  
 /DuolingoSharedTask  
 &nbsp;&nbsp;&nbsp;&nbsp;/Data  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/data_en_es  
